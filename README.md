@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Lynn Sugut</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya.</h3>
-
 
 # 💫 About Me:
 🔭 I’m currently working on Application Tracking System<br><br>🌱 I’m currently learning React Native for mobile app development.<br><br>👨‍💻 All of my projects are available at https://www.sugutlynn.me/<br><br>💬 Ask me about React, Typescript, Flutter, and GSAP - I've implemented complex animations using GSAP in several projects.<br><br>📫 How to reach me sugutlynn@gmail.com<br><br>📄 Know about my experiences https://lynnsugutcv.tiiny.site/<br><br>⚡ Fun fact I once coded an entire application using only emojis for variable names - surprisingly, it worked!<br><br>
