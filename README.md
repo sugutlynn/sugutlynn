@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugutlynn&show_icons=true&locale=en" alt="sugutlynn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugutlynn&" alt="sugutlynn" /></p>
-### Hi there 👋
+
 
 <!--
 **sugutlynn/sugutlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
